@@ -8,3 +8,5 @@ OneWire: Paul Stoffregen https://github.com/PaulStoffregen
 
 
 More info can be found on https://sillydiy.blogspot.com/2022/01/measuring-boat-engine-temperature-wih.html
+
+PCB: https://aisler.net/p/SUMPWCYW
