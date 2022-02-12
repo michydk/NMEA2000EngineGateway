@@ -1,5 +1,8 @@
 # NMEA2000EngineGateway
 
+Basicly an non invasive way to messure oil and coolingwater temperature along with RPM on altenator, and then report result via NMEA 2000 to plotter.
+
+
 Based on the shoulders of my hero's, including but not limited to:
 
 DallasTemperature: Miles Burton https://github.com/milesburton
